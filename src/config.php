@@ -60,6 +60,7 @@ $jsFiles = array(
             'name' => 'highcharts-more.js',
             'path' => '//code.highcharts.com/'
         ),
+	    
         'exporting' => array(
             'name' => 'exporting.js',
             'path' => '//code.highcharts.com/modules/'
