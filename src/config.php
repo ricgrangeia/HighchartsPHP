@@ -53,6 +53,21 @@ $jsFiles = array(
         'name' => 'highmaps.js',
         'path' => '//code.highcharts.com/maps/'
     ),
+    
+   'exporting' => array(
+		'name' => 'exporting.js',
+		'path' => '//code.highcharts.com/modules/'
+	), 
+   
+   'export-data' => array(
+		'name' => 'export-data.js',
+		'path' => '//code.highcharts.com/modules/'
+	),
+    
+    'accessibility' => array(
+		'name' => 'accessibility.js',
+		'path' => '//code.highcharts.com/modules/'
+	),
 
     //Extra scripts used by Highcharts 3.0 charts
     'extra' => array(
